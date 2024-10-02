@@ -137,7 +137,7 @@ export default function ChatPage() {
             </div>
           </div>
         ))}
-      </div>
+      </div>    
 
 
       <div className="input-container my-10 text-center space-x-8 ">
